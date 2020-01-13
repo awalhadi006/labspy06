@@ -19,3 +19,5 @@ def input_data():
     tugas.append({'tugas': mastugas})
     akhir = (30 * mastugas / 100) + (35 * masuts / 100) + (35 * masuas / 100)
     nakhir.append({'nakhir': akhir})
+
+    tambah_data(nim. )
